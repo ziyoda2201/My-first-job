@@ -2,7 +2,7 @@ package com.example.myfirstjob;
 
 import androidx.cardview.widget.CardView;
 
-import com.example.myfirstjob.Models.Notes;
+import com.example.myfirstjob.models.Notes;
 
 public interface NotesClickListener {
 

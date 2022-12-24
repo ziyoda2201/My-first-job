@@ -1,4 +1,4 @@
-package com.example.myfirstjob.Adapter;
+package com.example.myfirstjob.adapter;
 
 import android.content.Context;
 import android.os.Build;
@@ -12,7 +12,7 @@ import androidx.annotation.NonNull;
 import androidx.cardview.widget.CardView;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.myfirstjob.Models.Notes;
+import com.example.myfirstjob.models.Notes;
 import com.example.myfirstjob.NotesClickListener;
 import com.example.myfirstjob.R;
 

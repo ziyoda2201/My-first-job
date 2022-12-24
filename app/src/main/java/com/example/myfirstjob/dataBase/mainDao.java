@@ -1,4 +1,4 @@
-package com.example.myfirstjob.DataBase;
+package com.example.myfirstjob.dataBase;
 
 import static androidx.room.OnConflictStrategy.REPLACE;
 
@@ -7,7 +7,7 @@ import androidx.room.Delete;
 import androidx.room.Insert;
 import androidx.room.Query;
 
-import com.example.myfirstjob.Models.Notes;
+import com.example.myfirstjob.models.Notes;
 
 import java.util.List;
 

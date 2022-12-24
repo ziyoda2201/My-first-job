@@ -1,4 +1,4 @@
-package com.example.myfirstjob.DataBase;
+package com.example.myfirstjob.dataBase;
 
 import android.content.Context;
 
@@ -6,7 +6,7 @@ import androidx.room.Database;
 import androidx.room.Room;
 import androidx.room.RoomDatabase;
 
-import com.example.myfirstjob.Models.Notes;
+import com.example.myfirstjob.models.Notes;
 
 @Database(entities = Notes.class, version = 1, exportSchema = false)
 public abstract class RoomDb extends RoomDatabase {
