@@ -7,15 +7,12 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
-
 import androidx.annotation.NonNull;
 import androidx.cardview.widget.CardView;
 import androidx.recyclerview.widget.RecyclerView;
-
 import com.example.myfirstjob.models.Notes;
 import com.example.myfirstjob.NotesClickListener;
 import com.example.myfirstjob.R;
-
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
